@@ -10,7 +10,7 @@
 <body class="markdown-body">
 <h1> Olá! </h1>
 
-<div class="about-me" >
+<div class="about-me" style="display: flex" >
 <p width="500">
 	Meu nome é Rivaldo, tenho 23 anos, atualmente resido na cidade de Cruzília-MG.
 	Estou estudando desenvolvimento web na Trybe pela qual já completei o módulo de Front End. Atualmente estou no módulo Back End.
