@@ -10,7 +10,6 @@
 		width: 500px;
 	}
 	.about-me img {
-		width: 330px;
 		margin-right: 120px
 	}
 	.skills {
@@ -33,12 +32,12 @@
 <h1> Olá! </h1>
 
 <div class="about-me">
-<p>
+<p width: 500>
 	Meu nome é Rivaldo, tenho 23 anos, atualmente resido na cidade de Cruzília-MG.
 	Estou estudando desenvolvimento web na [Trybe](@betrybe.com) pela qual já completei o módulo de Front End. Atualmente estou no módulo Back End.
 	Sou fascinado por tudo o que envolva tecnologia. Desde que ganhei meu primeiro computador em 2009, até hoje este se tornou meu hobbie favorito, seja para jogos, edição de imagens ou para desenvolver projetos pessoais/para estudos. Além de codar, gosto de ouvir músicas :musical_note:, assistir filmes e séries :film_projector: e não dispenso uma boa conversa com meus amigos :speaking_head:!
 </p>
-<img src="./react.png">
+<img src="./react.png" width:330>
 </div>
 
 <div class="contact">
