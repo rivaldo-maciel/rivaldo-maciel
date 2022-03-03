@@ -6,4 +6,5 @@ Sou fascinado por tudo o que envolva tecnologia. Desde que ganhei meu primeiro c
 
 	[!instagram.svg](https://www.instagram.com/rivaldo.maciel.58/?fbclid=IwAR3Vxz0XkGuDR7_RAX_Fd-f4rXq2XmobvCIaB4ENqZnmi3OaJ4PTas4EJp4)
 
+
 	[!linkedin.svg](https://www.linkedin.com/in/rivaldo-devjrfrontend)
