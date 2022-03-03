@@ -21,10 +21,14 @@ Sou fascinado por tudo o que envolva tecnologia. Desde que ganhei meu primeiro c
 	<img src="./docker.png" width="40"> &nbsp;
 </div>
 <br></br>
-<a target="_blank" href="https://github.com/rivaldo-maciel">
-  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=rivaldo-maciel&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" />
+<div align="center">
+	<a target="_blank" href="https://github.com/rivaldo-maciel">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rivaldo-maciel&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" /> &nbsp;&nbsp;&nbsp;
 </a>
+
 <a target="_blank" href="https://github.com/rivaldo-maciel">
-  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivaldo-maciel&layout=compact&show_icons=true&hide_border=true&theme=tokyonight&langs_count=10" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivaldo-maciel&layout=compact&show_icons=true&hide_border=true&theme=tokyonight&langs_count=10" />
 </a>
+</div>
+
 </body>
