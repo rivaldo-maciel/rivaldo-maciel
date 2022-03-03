@@ -1,6 +1,11 @@
-<h1>Olá!</h1>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="github-markdown.css">
 
-<img src="./react.png" width="330" align="right" >
+<body class="markdown-body">
+<h1> Olá! </h1>
+
+<img src="./octocat.png" width="330" align="right" >
 Meu nome é Rivaldo, tenho 23 anos, atualmente resido na cidade de Cruzília-MG.
 Estou estudando desenvolvimento web na Trybe pela qual já completei o módulo de Front End. Atualmente estou no módulo Back End.
 <br></br>
