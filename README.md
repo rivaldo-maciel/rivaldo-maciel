@@ -1,37 +1,4 @@
-<style>
-	.about-me {
-		display: flex;
-		justify-content: space-between;
-	}
-
-	.about-me p {
-		width: 500px;
-	}
-
-	.about-me img {
-		width: 330px;
-		margin-right: 200px
-	}
-
-	.skills {
-		display: flex;
-		flex-direction: column;
-		width: 400px;
-		text-align: center;
-		margin-top: 100px
-	}
-
-	.skills img {
-		width: 50px;
-	}
-
-	.skills div {
-		display: flex;
-		justify-content: space-evenly;
-		margin-top: 30px
-	}
-</style>
-
+<link rel="stylesheet" href="./style.css">
 <h1> Olá! </h1>
 
 <div class="about-me">
