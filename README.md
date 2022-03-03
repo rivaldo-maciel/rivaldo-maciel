@@ -1,33 +1,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="github-markdown.css">
-<style>
-	.about-me {
-		display: flex;
-		justify-content: space-between;
-	}
-	.about-me p {
-		width: 500px;
-	}
-	.about-me img {
-		margin-right: 120px
-	}
-	.skills {
-		display: flex;
-		flex-direction: column;
-		width: 400px;
-		text-align: center;
-		margin-top: 100px
-	}
-	.skills img {
-		width: 50px;
-	}
-	.skills div {
-		display: flex;
-		justify-content: space-evenly;
-		margin-top: 30px
-	}
-</style>
 
 <h1> Olá! </h1>
 
