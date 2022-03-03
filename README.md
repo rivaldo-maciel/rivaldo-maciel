@@ -13,7 +13,10 @@
 <img src="./react.png" width="330">
 </div>
 
-<div class="contact" margin-top="30">
+
+
+
+<div class="contact">
 	<img src="./instagram.svg">
 	<img src="./linkedin.svg">
 </div>
