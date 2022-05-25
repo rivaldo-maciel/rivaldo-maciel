@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="github-markdown.css">
 
 <body class="markdown-body">
-<h1> Olá! </h1>
+<h1> Hello! </h1>
 
 <img src="./octocat.png" width="330" align="right" >
 My name is Rivaldo. I'm 23 years old. I currently live in the city of Cruzília-MG. I'm studying web development at Trybe for which I've already completed the Front End module. I'm currently in the Back End module.
