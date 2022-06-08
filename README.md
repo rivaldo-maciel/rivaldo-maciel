@@ -20,6 +20,7 @@ I am fascinated by everything that involves technology. Since I got my first com
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" /> &nbsp;
 	<img src="./docker.png" width="40"> &nbsp;
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> &nbsp;
 </div>
 <br></br>
 <div align="center">
